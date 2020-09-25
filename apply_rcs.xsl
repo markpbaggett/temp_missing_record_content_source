@@ -31,6 +31,6 @@
     
     <!-- apply rights statements.org -->
     <xsl:template match="recordContentSource">
-        <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+        <recordContentSource>University of Memphis. Special Collections</recordContentSource>
     </xsl:template>
 </xsl:stylesheet>
