@@ -1,53 +1,59 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-  <identifier type="local">um049</identifier>
-  <identifier type="oclc">50286689</identifier>
-  <titleInfo>
-    <title>[Letter] 1847 Aug. 12, Memphis [to] Miss Mary C Porter / B[en] N. Sawtell, Esq[uire]</title>
-  </titleInfo>
-  <abstract>The following document is a letter written by Ben Sawtell in Memphis to his niece Mary C. Porter, dated August 12, 1847. The letter is a brief note in which Sawtell extends his love to his niece and to her brother Edward.</abstract>
-  <originInfo>
-    <dateCreated>August 12, 1847</dateCreated>
-    <dateCreated encoding="edtf">1847-08-12</dateCreated>
-  </originInfo>
-  <subject>
-    <topic>Letters</topic>
-  </subject>
-  <subject>
-    <topic>Tennessee</topic>
-  </subject>
-  <name>
-    <namePart>Sawtell, Benjamin N.</namePart>
-    <role>
-      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
-    </role>
-  </name>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
-  <location>
-    <physicalLocation></physicalLocation>
-  </location>
-  <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Tennessee Documentary History</title>
-    </titleInfo>
-  </relatedItem>
-  <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>Porter-Rice Family Letters MS-154 (letters 1846-1849)</title>
-    </titleInfo>
-  </relatedItem>
-  <typeOfResource>text</typeOfResource>
-  <language>
-    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
-  </language>
-  <recordInfo>
-    <recordContentSource></recordContentSource>
-    <languageOfCataloging>
-      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </languageOfCataloging>
-    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
-    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">um049</identifier>
+   <identifier type="oclc">50286689</identifier>
+   <titleInfo>
+      <title>[Letter] 1847 Aug. 12, Memphis [to] Miss Mary C Porter / B[en] N. Sawtell, Esq[uire]</title>
+   </titleInfo>
+   <abstract>The following document is a letter written by Ben Sawtell in Memphis to his niece Mary C. Porter, dated August 12, 1847. The letter is a brief note in which Sawtell extends his love to his niece and to her brother Edward.</abstract>
+   <originInfo>
+      <dateCreated>August 12, 1847</dateCreated>
+      <dateCreated encoding="edtf">1847-08-12</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Letters</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <name>
+      <namePart>Sawtell, Benjamin N.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation/>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Porter-Rice Family Letters MS-154 (letters 1846-1849)</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
           https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
-  </recordInfo>
+   </recordInfo>
 </mods>

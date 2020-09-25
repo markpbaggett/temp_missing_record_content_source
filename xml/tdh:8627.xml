@@ -1,53 +1,59 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-  <identifier type="local">um038</identifier>
-  <identifier type="oclc">50280996</identifier>
-  <titleInfo>
-    <title>[Letter] 1846 Aug. 1, Salem, Miss[issippi] [to] Mr [Howell] Taylor, near Summerville, Tenn[essee] / John D. Alexander</title>
-  </titleInfo>
-  <abstract>This document is a letter written by John D. Alexander to Howell Taylor on August 1, 1846. In the letter, Alexander informs Taylor that the Female Academy has a new principal by the name of Mr. C. A. Sprague, who plans to invite a Miss Goode to fill the position of director of the Department of Music.</abstract>
-  <originInfo>
-    <dateCreated>August 1, 1846</dateCreated>
-    <dateCreated encoding="edtf">1846-08-01</dateCreated>
-  </originInfo>
-  <subject>
-    <topic>College teachers</topic>
-  </subject>
-  <subject>
-    <topic>Mississippi</topic>
-  </subject>
-  <name>
-    <namePart>Alexander, John D.</namePart>
-    <role>
-      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
-    </role>
-  </name>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
-  <location>
-    <physicalLocation></physicalLocation>
-  </location>
-  <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Tennessee Documentary History</title>
-    </titleInfo>
-  </relatedItem>
-  <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>Taylor Family of Fayette Co. TN Letters MS 384 (corr. 1836-1847)</title>
-    </titleInfo>
-  </relatedItem>
-  <typeOfResource>text</typeOfResource>
-  <language>
-    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
-  </language>
-  <recordInfo>
-    <recordContentSource></recordContentSource>
-    <languageOfCataloging>
-      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </languageOfCataloging>
-    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
-    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">um038</identifier>
+   <identifier type="oclc">50280996</identifier>
+   <titleInfo>
+      <title>[Letter] 1846 Aug. 1, Salem, Miss[issippi] [to] Mr [Howell] Taylor, near Summerville, Tenn[essee] / John D. Alexander</title>
+   </titleInfo>
+   <abstract>This document is a letter written by John D. Alexander to Howell Taylor on August 1, 1846. In the letter, Alexander informs Taylor that the Female Academy has a new principal by the name of Mr. C. A. Sprague, who plans to invite a Miss Goode to fill the position of director of the Department of Music.</abstract>
+   <originInfo>
+      <dateCreated>August 1, 1846</dateCreated>
+      <dateCreated encoding="edtf">1846-08-01</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>College teachers</topic>
+   </subject>
+   <subject>
+      <topic>Mississippi</topic>
+   </subject>
+   <name>
+      <namePart>Alexander, John D.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation/>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Taylor Family of Fayette Co. TN Letters MS 384 (corr. 1836-1847)</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
           https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
-  </recordInfo>
+   </recordInfo>
 </mods>

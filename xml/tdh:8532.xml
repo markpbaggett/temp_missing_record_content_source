@@ -1,56 +1,62 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-  <identifier type="local">um060</identifier>
-  <identifier type="oclc">50296835</identifier>
-  <titleInfo>
-    <title>[Letter] 1850 Nov. 11, Shepherdsville, [to] E[dward] E. Porter / C. Clay Balfrey</title>
-  </titleInfo>
-  <abstract>This document is a letter written by C. Clay Balfrey to Edward E. Porter on November 11, 1850. In the letter, Balfrey mentions the fact that many people have been getting married and that marriage seems to be the popular thing to do at the time. He also mentions that Edward&apos;s former landlord, a man named Nick Simmons, was shot in the back in a fight and has recovered. He concludes by saying that he wishes for Edward and himself to renew their friendship after some previous disagreements.</abstract>
-  <originInfo>
-    <dateCreated>November 11, 1850</dateCreated>
-    <dateCreated encoding="edtf">1850-11-11</dateCreated>
-  </originInfo>
-  <subject>
-    <topic>Letters</topic>
-  </subject>
-  <subject>
-    <topic>Boarding school students</topic>
-  </subject>
-  <subject>
-    <topic>Tennessee</topic>
-  </subject>
-  <name>
-    <namePart>Balfrey, C. Clay</namePart>
-    <role>
-      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
-    </role>
-  </name>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
-  <location>
-    <physicalLocation></physicalLocation>
-  </location>
-  <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Tennessee Documentary History</title>
-    </titleInfo>
-  </relatedItem>
-  <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>Porter-Rice Family Letters MS 154 (Letters 1850-1851)</title>
-    </titleInfo>
-  </relatedItem>
-  <typeOfResource>text</typeOfResource>
-  <language>
-    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
-  </language>
-  <recordInfo>
-    <recordContentSource></recordContentSource>
-    <languageOfCataloging>
-      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </languageOfCataloging>
-    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
-    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">um060</identifier>
+   <identifier type="oclc">50296835</identifier>
+   <titleInfo>
+      <title>[Letter] 1850 Nov. 11, Shepherdsville, [to] E[dward] E. Porter / C. Clay Balfrey</title>
+   </titleInfo>
+   <abstract>This document is a letter written by C. Clay Balfrey to Edward E. Porter on November 11, 1850. In the letter, Balfrey mentions the fact that many people have been getting married and that marriage seems to be the popular thing to do at the time. He also mentions that Edward's former landlord, a man named Nick Simmons, was shot in the back in a fight and has recovered. He concludes by saying that he wishes for Edward and himself to renew their friendship after some previous disagreements.</abstract>
+   <originInfo>
+      <dateCreated>November 11, 1850</dateCreated>
+      <dateCreated encoding="edtf">1850-11-11</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Letters</topic>
+   </subject>
+   <subject>
+      <topic>Boarding school students</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <name>
+      <namePart>Balfrey, C. Clay</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation/>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Porter-Rice Family Letters MS 154 (Letters 1850-1851)</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
           https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
-  </recordInfo>
+   </recordInfo>
 </mods>

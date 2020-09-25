@@ -1,53 +1,59 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-  <identifier type="local">um013</identifier>
-  <identifier type="oclc">50199483</identifier>
-  <titleInfo>
-    <title>[Letter] 1849 March 27 [to] Alexander D. Coffee / Andrew Jackson Coffee</title>
-  </titleInfo>
-  <abstract>This document is a letter dated March 27, 1849 to Alexander D. Coffee from his brother Andrew Jackson Coffee. Andrew write his brother about various political appointments about to occur in Alabama, and that he was honored by the late President for his services in the Battle of Buena Vista.</abstract>
-  <originInfo>
-    <dateCreated>March 27, 1849</dateCreated>
-    <dateCreated encoding="edtf">1849-03-27</dateCreated>
-  </originInfo>
-  <subject>
-    <topic>Mexican War, 1846-1848</topic>
-  </subject>
-  <subject>
-    <topic>Alabama</topic>
-  </subject>
-  <name>
-    <namePart>Coffee, Andrew Jackson</namePart>
-    <role>
-      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
-    </role>
-  </name>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
-  <location>
-    <physicalLocation></physicalLocation>
-  </location>
-  <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Tennessee Documentary History</title>
-    </titleInfo>
-  </relatedItem>
-  <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>Andrew Jackson Coffee Family Papers, MS27</title>
-    </titleInfo>
-  </relatedItem>
-  <typeOfResource>text</typeOfResource>
-  <language>
-    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
-  </language>
-  <recordInfo>
-    <recordContentSource></recordContentSource>
-    <languageOfCataloging>
-      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </languageOfCataloging>
-    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
-    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">um013</identifier>
+   <identifier type="oclc">50199483</identifier>
+   <titleInfo>
+      <title>[Letter] 1849 March 27 [to] Alexander D. Coffee / Andrew Jackson Coffee</title>
+   </titleInfo>
+   <abstract>This document is a letter dated March 27, 1849 to Alexander D. Coffee from his brother Andrew Jackson Coffee. Andrew write his brother about various political appointments about to occur in Alabama, and that he was honored by the late President for his services in the Battle of Buena Vista.</abstract>
+   <originInfo>
+      <dateCreated>March 27, 1849</dateCreated>
+      <dateCreated encoding="edtf">1849-03-27</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Mexican War, 1846-1848</topic>
+   </subject>
+   <subject>
+      <topic>Alabama</topic>
+   </subject>
+   <name>
+      <namePart>Coffee, Andrew Jackson</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation/>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Andrew Jackson Coffee Family Papers, MS27</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
           https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
-  </recordInfo>
+   </recordInfo>
 </mods>
