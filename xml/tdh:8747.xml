@@ -1,0 +1,53 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um007</identifier>
+  <identifier type="oclc">50193751</identifier>
+  <titleInfo>
+    <title>[Letter] [to] Col [onel] Andrew J. Hutchings, Florence, Ala[bama] / A[ndrew] [ackson] Coffee</title>
+  </titleInfo>
+  <abstract>This document is a letter from Andrew Jackson Coffee to Colonel Andrew J. Hutchings. In the letter, Coffee discusses his views on the issues of slavery and the Canadian difficulties with England.</abstract>
+  <originInfo>
+    <dateCreated>ca. 1835</dateCreated>
+    <dateCreated encoding="edtf">1835</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Tennessee -- politics and government -- To 1865</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee</topic>
+  </subject>
+  <name>
+    <namePart>Coffee, Andrew Jackson</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <physicalLocation></physicalLocation>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Andrew Jackson Coffee Family Papers 1833-1903 MS 27</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource></recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+</mods>

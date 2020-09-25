@@ -1,0 +1,56 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um019</identifier>
+  <identifier type="oclc">50200142</identifier>
+  <titleInfo>
+    <title>[Letter] 1831 Feb. 6, Nashville [to] Susan Gallagher, Bangor Maine / J. Baynard Snowden</title>
+  </titleInfo>
+  <abstract>This is a letter dated February 6, 1831 to Susan Gallagher from her brother J. Baynard Snowden of Nashville, Tennessee. Snowden writes of a friend moving to Cincinnati, Ohio in order to protect his children from the effects of slavery. He also writes that he dined with President Andrew Jackson at the Hermitage.</abstract>
+  <originInfo>
+    <dateCreated>February 6, 1831</dateCreated>
+    <dateCreated encoding="edtf">1831-02-06</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Slavery</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee</topic>
+  </subject>
+  <name>
+    <namePart>Snowden, Baynard J.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <physicalLocation></physicalLocation>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>R. B. Snowden Family Papers 1807-1950, MS65</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource></recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+</mods>

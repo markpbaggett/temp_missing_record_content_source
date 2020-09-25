@@ -1,0 +1,56 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um090</identifier>
+  <identifier type="oclc">50323655</identifier>
+  <titleInfo>
+    <title>[Letter] 1843 May, Columbia, Tenn[essee] [to] Col[onel] R[obert] J. Chester, Jackson, Tenn[essee] / M[ary Jane] Chester</title>
+  </titleInfo>
+  <abstract>This document is a letter from Mary Jane Chester to her father Colonel Robert J. Chester, postmarked on either May 19 or 29, 1843. Mary writes to her father from her school in Columbia, TN, and she explains that her examination is soon approaching and that she is excited about the prospects of returning home afterwards. She also describes an encounter she had with an old friend of her father&apos;s by the name of Mr. Trotter. Enclosed is a letter addressed to her sister, in which she discusses the death of a man by the name of W. Patton and expresses her anticipation at her sister&apos;s expected arrival in Columbia.</abstract>
+  <originInfo>
+    <dateCreated>May 1843</dateCreated>
+    <dateCreated encoding="edtf">1843-05</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Letters</topic>
+  </subject>
+  <subject>
+    <topic>Boarding school students</topic>
+  </subject>
+  <subject>
+    <topic>Letters</topic>
+  </subject>
+  <name>
+    <namePart>Chester, Mary Jane</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <physicalLocation></physicalLocation>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Chester Family Papers MS-25 (Jan.-June 1843)</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource></recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+</mods>

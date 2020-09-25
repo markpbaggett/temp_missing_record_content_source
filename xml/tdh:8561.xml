@@ -1,0 +1,56 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um054</identifier>
+  <identifier type="oclc">50295901</identifier>
+  <titleInfo>
+    <title>[Letter] 1848 Sep. 19, Steamer Palo Alto [to] Ed[ward] E Porter, South Hanover, Ind[ian]a / E. H. Porter</title>
+  </titleInfo>
+  <abstract>The following document is a letter written by E. E. Porter, addressed to his son Edward, on September 19, 1848. The elder Porter writes this letter aboard a steamer in the midst of his travels. He talks about the places he has been and provides Edward with the good news that he may have found a cure for the son&apos;s illness.</abstract>
+  <originInfo>
+    <dateCreated>September 19, 1848</dateCreated>
+    <dateCreated encoding="edtf">1848-09-19</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Southern States -- Travel and description</topic>
+  </subject>
+  <subject>
+    <topic>Letters</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee</topic>
+  </subject>
+  <name>
+    <namePart>Porter, E. H.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <physicalLocation></physicalLocation>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Porter-Rice Family Letters MS-154 (letters 1846-1849)</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource></recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+</mods>

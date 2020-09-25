@@ -1,0 +1,56 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um005</identifier>
+  <identifier type="oclc">50193445</identifier>
+  <titleInfo>
+    <title>[Remittance] 1836 Feb. 22 [to] Andrew J [ackson] Coffee / Andrew Jackson</title>
+  </titleInfo>
+  <abstract>This document is a remittance to Andrew Jackson Coffee from Andrew Jackson. The remittance, dated February 22, 1836, is for a $250 reimbursement to Coffee for his expenses at West Point and to and from Washington.</abstract>
+  <originInfo>
+    <dateCreated>February 22, 1836</dateCreated>
+    <dateCreated encoding="edtf">1836-02-22</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Military education</topic>
+  </subject>
+  <subject>
+    <topic>Coffee, Andrew Jackson</topic>
+  </subject>
+  <subject>
+    <topic>United States</topic>
+  </subject>
+  <name valueURI="http://id.loc.gov/authorities/names/n79088888">
+    <namePart>Jackson, Andrew, 1767-1845</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="name">Associated</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <physicalLocation></physicalLocation>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Andrew Jackson 1804-1844 MS28</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource></recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+</mods>

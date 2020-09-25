@@ -1,0 +1,53 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um043</identifier>
+  <identifier type="oclc">50281343</identifier>
+  <titleInfo>
+    <title>[Letter] 1836 Jul. 30, Macon, Noxubee Cty., Miss[issippi] [to] E.H. Porter, Raleigh, Tennessee / LeRoy B. Gaston</title>
+  </titleInfo>
+  <abstract>This document is a letter dated July 30, 1836 to E. H. Porter of Tennessee from LeRoy Gaston regarding various business ventures in Mississippi and Georgia.</abstract>
+  <originInfo>
+    <dateCreated>July 30, 1836</dateCreated>
+    <dateCreated encoding="edtf">1836-07-30</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Business enterprises</topic>
+  </subject>
+  <subject>
+    <topic>Southern states</topic>
+  </subject>
+  <name>
+    <namePart>Gaston, LeRoy B.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <physicalLocation></physicalLocation>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Porter-Rice Family Letters, MS 154, 1830-1839</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource></recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,53 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um045</identifier>
+  <identifier type="oclc">50286049</identifier>
+  <titleInfo>
+    <title>[[Letter] 1836 Sept. 22, Raleigh, [North Carolina] [to] D[octo]r W[illia]m Johnson / [Ethel Henry Porter]</title>
+  </titleInfo>
+  <abstract>This document is a letter to Doctor William Johnson from Ethel Henry Porter, dated September 22, 1836. In the letter, Porter informs Johnson of the way in which he will repay a monetary judgement Johnson has against Porter and another man. Porter explains that the delay in payment is a result of not being able to obtain North Carolina or US currency.</abstract>
+  <originInfo>
+    <dateCreated>September 22, 1836</dateCreated>
+    <dateCreated encoding="edtf">1836-09-22</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Debt service</topic>
+  </subject>
+  <subject>
+    <topic>North Carolina</topic>
+  </subject>
+  <name>
+    <namePart>Porter, Ethel Henry</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <physicalLocation></physicalLocation>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Porter-Rice Family Letters MS 154 (letters 1830-1839)</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource></recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+</mods>

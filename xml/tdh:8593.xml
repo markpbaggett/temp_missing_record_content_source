@@ -1,0 +1,53 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um047</identifier>
+  <identifier type="oclc">50286335</identifier>
+  <titleInfo>
+    <title>[Letter] 1837 Sep. 15 [to] E. H. Porter, Shelby County, Tennessee / Ja[me]s Stafford</title>
+  </titleInfo>
+  <abstract>This document is a letter to E. H. Porter of Memphis Tennessee from James Stafford regarding possible business ventures in the state of Illinois.</abstract>
+  <originInfo>
+    <dateCreated>September 15, 1837</dateCreated>
+    <dateCreated encoding="edtf">1837-09-15</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Business enterprises</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee</topic>
+  </subject>
+  <name>
+    <namePart>Stafford, James</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <physicalLocation></physicalLocation>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Porter-Rice Family Papers, MS-154, 1830-1839</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource></recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+</mods>

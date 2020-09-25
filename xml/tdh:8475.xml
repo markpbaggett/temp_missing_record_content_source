@@ -1,0 +1,56 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um072</identifier>
+  <identifier type="oclc">50315797</identifier>
+  <titleInfo>
+    <title>[Letter] 1841 Apr 1, Columbia Female Institute [to] Mrs. Elizabeth Chester, Jackson, Tennessee / M[ary] J[ane] Chester</title>
+  </titleInfo>
+  <abstract>The following document is a letter dated April 1, 1841, from Mary Jane Chester at the Columbia (Tennessee) Female Institute to her mother Mrs. Elizabeth Chester in Jackson, Tennessee. In the letter, Mary Jane discusses a milieu of topics about life back home and life at school.</abstract>
+  <originInfo>
+    <dateCreated>April 1, 1841</dateCreated>
+    <dateCreated encoding="edtf">1841-04-01</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Letters</topic>
+  </subject>
+  <subject>
+    <topic>Boarding school students</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee -- History</topic>
+  </subject>
+  <name>
+    <namePart>Chester, Mary Jane</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <physicalLocation></physicalLocation>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Chester Family Papers MS-25 (March, April 1841)</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource></recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+</mods>
